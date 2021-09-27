@@ -10,4 +10,6 @@ export default {
     goods: [], // 商家食品
     ratings: [], // 商家评论
     info: {}, // 商家信息
+    cartFoods: [], // 购物车的食品
+    searchShops: [], // 搜索的商家数组
 }

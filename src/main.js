@@ -11,6 +11,8 @@ import store from './store'
 import {Button} from 'mint-ui'
 // 引入mockServer
 import './mock/mockServer'
+// 引入自定义过滤器模块
+import './filters'
 
 // 关闭生产提示
 Vue.config.productionTip = false
